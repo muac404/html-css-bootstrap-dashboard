@@ -63,3 +63,12 @@ li{
 .ring-color-alert{
     color: #ff8f00;
 }
+
+.aside-menu li{
+    color: white;
+}
+
+.aside-menu a{
+    color: white;
+    text-decoration: none;
+}
