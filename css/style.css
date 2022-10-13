@@ -1,6 +1,6 @@
 header{
     height: 70px;
-    background-color: lightblue;
+    background-color: #f8f9fa;
 }
 
 .page-container{
@@ -18,6 +18,12 @@ main{
     max-width: calc(100% - 250px);
     overflow-y: auto;
     flex-grow: 1;
+}
+
+/* TYPO */
+
+*{
+    font-family: 'Roboto', sans-serif;
 }
 
  /* DEBUG */
@@ -38,4 +44,14 @@ li{
 
 .logo-desktop img{
     height: 100%;
+}
+
+.ms-trasp-btn{
+    background-color: transparent;
+    border:none;
+    
+}
+
+.ring-color-alert{
+    color: #ff8f00;
 }
