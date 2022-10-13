@@ -1,0 +1,25 @@
+header{
+    height: 70px;
+    background-color: #f8f9fa;
+}
+
+.page-container{
+    height: calc( 100vh - 70px);
+    display: flex;
+}
+aside{
+    width: 200px;
+    background-color: #0f273d;
+    height: 100%;
+    flex-shrink: 0;
+}
+
+main{
+    max-width: calc(100% - 250px);
+    overflow-y: auto;
+    flex-grow: 1;
+}
+
+.border-debug{
+    border: 1px dashed black;
+}
