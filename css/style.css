@@ -1,5 +1,5 @@
 header{
-    height: 70px;
+    /* height: 70px; */
     background-color: #f8f9fa;
 }
 
@@ -28,13 +28,13 @@ main{
 
  /* DEBUG */
 
-.border-debug{
+/* .border-debug{
     border: 1px dashed black;
 }
 
 .grey-debug{
     background-color: grey;
-}
+} */
 
 
 li{
