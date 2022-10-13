@@ -46,9 +46,12 @@ li{
     height: 100%;
 }
 
+.logo-mobile{
+    text-align: center;
+}
 .logo-mobile img{
-    height: 100%;
-    width: 100%;
+    max-width: 50px;
+    
 }
 
 .ms-trasp-btn{
