@@ -20,6 +20,22 @@ main{
     flex-grow: 1;
 }
 
+ /* DEBUG */
+
 .border-debug{
     border: 1px dashed black;
+}
+
+.grey-debug{
+    background-color: grey;
+}
+
+
+li{
+    list-style: none;
+    padding: 0;
+}
+
+.logo-desktop img{
+    height: 100%;
 }
