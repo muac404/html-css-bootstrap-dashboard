@@ -63,6 +63,9 @@ li{
     
 }
 
+.header-color-primary i{
+    color: grey;
+}
 .ring-color-alert{
     color: #ff8f00;
 }
