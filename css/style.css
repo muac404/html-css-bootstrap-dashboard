@@ -12,6 +12,8 @@ aside{
     background-color: #0f273d;
     height: 100%;
     flex-shrink: 0;
+    background-image: url(../img/sidebar-bg.png);
+    background-size: cover;
 }
 
 main{
@@ -119,5 +121,20 @@ li{
 .admin-text:hover{
     color: #ff8f00;
     
+}
+
+@media screen and (max-width: 1200px) {
+    aside{
+        width: 70px;
+       
+    }
+
+    main{
+        max-width: calc(100% - 70px);
+    }
+
+    .aside-menu a{
+        display: none;
+    }
 }
 
