@@ -16,7 +16,7 @@ aside{
 
 main{
     max-width: calc(100% - 200px);
-    
+    max-height: calc(100% -70px);
     overflow-y: auto;
     flex-grow: 1;
 }
@@ -101,4 +101,27 @@ li{
 
 .card-body img{
     width: 100%;
+}
+
+.ms-width-100{
+    width: 100%;
+}
+
+.aside-menu li{
+    cursor: pointer;
+}
+.aside-menu li:not(:last-child):hover{
+    background-color: #1c71e8;
+    padding: 5px;
+    
+}
+
+.admin-text a:hover{
+    color: yellow;
+    
+}
+
+.admin-text i:hover{
+    color: yellow;
+    
 }
