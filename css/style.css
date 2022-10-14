@@ -4,7 +4,7 @@ header{
 }
 
 .page-container{
-    height: calc( 100vh - 70px);
+    height: calc(100vh - 70px);
     display: flex;
 }
 aside{
