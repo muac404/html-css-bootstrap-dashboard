@@ -98,3 +98,7 @@ li{
 .ms-header-height{
     height: 70px;
 }
+
+.card-body img{
+    width: 100%;
+}
