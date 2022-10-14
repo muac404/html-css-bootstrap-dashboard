@@ -86,3 +86,11 @@ li{
     margin: 0;
     padding: 0;
 }
+
+.ms-btn-badge{
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 15px;
+    background-color: #185bb9;
+    vertical-align: middle;
+}
