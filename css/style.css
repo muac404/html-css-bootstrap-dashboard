@@ -116,12 +116,8 @@ li{
     
 }
 
-.admin-text a:hover{
-    color: yellow;
+.admin-text:hover{
+    color: #ff8f00;
     
 }
 
-.admin-text i:hover{
-    color: yellow;
-    
-}
