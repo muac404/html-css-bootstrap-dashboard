@@ -131,6 +131,9 @@ table img{
     margin-right: 10px;
 }
 
+table i{
+    cursor: pointer;
+}
 
 
 @media screen and (max-width: 1200px) {
