@@ -148,3 +148,9 @@ table img{
     }
 }
 
+.ms-offcanvas-button{
+    margin: 10px;
+    border: 1px solid #1c71e8 ;
+    color: #1c71e8;
+    background-color: transparent;
+}
