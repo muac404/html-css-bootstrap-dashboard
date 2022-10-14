@@ -94,3 +94,7 @@ li{
     background-color: #185bb9;
     vertical-align: middle;
 }
+
+.ms-header-height{
+    height: 70px;
+}
