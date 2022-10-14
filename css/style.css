@@ -1,5 +1,5 @@
 header{
-    max-height: 70px;
+    height: 70px;
     background-color: #f8f9fa;
 }
 
@@ -16,6 +16,7 @@ aside{
 
 main{
     max-width: calc(100% - 250px);
+    
     overflow-y: auto;
     flex-grow: 1;
 }
