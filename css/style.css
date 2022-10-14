@@ -80,3 +80,8 @@ li{
 .aside-padding{
     padding-left: 32px;
 }
+
+.ms-mp-reset{
+    margin: 0;
+    padding: 0;
+}
