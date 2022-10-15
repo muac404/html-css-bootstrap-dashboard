@@ -79,6 +79,8 @@ li{
     text-decoration: none;
 }
 
+/* COMPONENTS */
+
 .asimmetric-icon{
     margin-left: 2px;
 }
@@ -135,6 +137,7 @@ table i{
     cursor: pointer;
 }
 
+/* RESPONSIVE */
 
 @media screen and (max-width: 1200px) {
     aside{
@@ -150,6 +153,10 @@ table i{
         display: none;
     }
 }
+
+
+/* BOOTRSTRAP BTN */
+
 
 .ms-offcanvas-button{
     margin: 10px;
