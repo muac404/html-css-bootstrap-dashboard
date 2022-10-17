@@ -149,9 +149,7 @@ table i{
         max-width: calc(100% - 70px);
     }
 
-    .aside-menu a{
-        display: none;
-    }
+   
 }
 
 
